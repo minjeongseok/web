@@ -1,4 +1,4 @@
 # web
 # project01
 # project02
-# lotto
+<a href="/lotto">lotto</a>
